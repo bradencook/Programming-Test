@@ -1,117 +1,118 @@
-0   OBJECTID
-1   Provo ID
-2   Left From
-3   Left To
-4   Right From
-5   Right To
-6   Parity Left
-7   Parity Right
-8   PreDir
-9   Base Street Name
-10   Street ID
-11   Street Type
-12   PostDir
-13   Street Label
-14   Prefix+Street Name
-15   Alias Numeric Name
-16   Alias Numeric PostDir
-17   Alias Num Street ID
-18   Alias1 PreDir
-19   Alias1 Street Name
-20   Alias1 Street Type
-21   Alias1 PostDir
-22   Alias1 Street ID
-23   Alias2 PreDir
-24   Alias2 Street Name
-25   Alias2 Street Type
-26   Alias2 PostDir
-27   Alias2 Street ID
-28   Lanes
-29   Surface Width
-30   Segment Area
-31   From Road
-32   To Road
-33   UDOT Class
-34   Classification
-35   OWNER
-36   One Way Code
-37   Vertical Level
-38   Speed Limit
-39   Access Issue Code
-40   Quadrant
-41   Constructed Status
-42   Cartographic Code
-43   DOT Highway Name
-44   DOT Route Name
-45   DOT Route Part
-46   DOT From Milepost
-47   DOT To Milepost
-48   DOT Functional Class
-49   DOT Surface Type
-50   DOT Road Funding Class
-51   DOT Owner Left
-52   DOT Owner Right
-53   DOT Daily Traffic
-54   DOT AADT Year
-55   State Left
-56   State Right
-57   County Left
-58   County Right
-59   Address System Left
-60   Address System Right
-61   Postal Community Left
-62   Postal Community Right
-63   Zip Code Left
-64   Zip Code Right
-65   Incorporated City Left
-66   Incorporated City Right
-67   Unincorporated City Left
-68   Unincorporated City Right
-69   Neighborhood Left
-70   Neighborhood Right
-71   ER CAD Zones
-72   ESN Left
-73   ESN Right
-74   MSAG Left
-75   MSAG Right
-76   Unique ID
-77   Utah Road Unique ID
-78   UT County ID
-79   Temp ID
-80   Source of Data
-81   Effective Date
-82   Expiration Date
-83   CustomTagBasedAttributes
-84   Date Updated
-85   Updated By
-86   C&G Left
-87   C&G Right
-88   Sidewalk Left
-89   Sidewalk Righ
-90   Surface Type
-91   Priority Level
-92   Fatigue Cracking
-93   Longitudinal Cracking
-94   Transverse Cracking
-95   Edge Cracking
-96   Patch_Potholes
-97   Rutting
-98   Roughness
-99   Deficient Drainage
-100   Governing Distress
-101   Next_Treat_Type
-102   NameType
-103   GlobalID
-104   CreationDate
-105   Creator
-106   EditDate
-107   Editor
-108   Structural Ranking
-109   Environmental Ranking
-110   Percent Patching
-111   Comments
-112   Field Verified
-113   Office Verified
-114   Shape__Length
-115   LengthYds
-
+FIELD	NAME	EXAMPLE DATA
+0	﻿OBJECTID			1
+1	Provo ID			1
+2	Left From			1451
+3	Left To			1619
+4	Right From			1450
+5	Right To			1618
+6	Parity Left			
+7	Parity Right			
+8	PreDir			E
+9	Base Street Name			OAK CLIFF
+10	Street ID			845
+11	Street Type			DR
+12	PostDir			
+13	Street Label			OAK CLIFF DR
+14	Prefix+Street Name			E OAK CLIFF DR
+15	Alias Numeric Name			
+16	Alias Numeric PostDir			
+17	Alias Num Street ID			
+18	Alias1 PreDir			
+19	Alias1 Street Name			
+20	Alias1 Street Type			
+21	Alias1 PostDir			
+22	Alias1 Street ID			
+23	Alias2 PreDir			
+24	Alias2 Street Name			
+25	Alias2 Street Type			
+26	Alias2 PostDir			
+27	Alias2 Street ID			
+28	Lanes			2
+29	Surface Width			34
+30	Segment Area			0.1435034
+31	From Road			
+32	To Road			
+33	UDOT Class			Eligible Paved
+34	Classification			Local
+35	OWNER			Provo
+36	One Way Code			
+37	Vertical Level			
+38	Speed Limit			25
+39	Access Issue Code			
+40	Quadrant			
+41	Constructed Status			
+42	Cartographic Code			
+43	DOT Highway Name			
+44	DOT Route Name			
+45	DOT Route Part			
+46	DOT From Milepost			
+47	DOT To Milepost			
+48	DOT Functional Class			
+49	DOT Surface Type			
+50	DOT Road Funding Class			
+51	DOT Owner Left			
+52	DOT Owner Right			
+53	DOT Daily Traffic			
+54	DOT AADT Year			
+55	State Left			
+56	State Right			
+57	County Left			
+58	County Right			
+59	Address System Left			
+60	Address System Right			
+61	Postal Community Left			
+62	Postal Community Right			
+63	Zip Code Left			
+64	Zip Code Right			
+65	Incorporated City Left			
+66	Incorporated City Right			
+67	Unincorporated City Left			
+68	Unincorporated City Right			
+69	Neighborhood Left			
+70	Neighborhood Right			
+71	ER CAD Zones			
+72	ESN Left			
+73	ESN Right			
+74	MSAG Left			
+75	MSAG Right			
+76	Unique ID			
+77	Utah Road Unique ID			
+78	UT County ID			
+79	Temp ID			
+80	Source of Data			
+81	Effective Date			
+82	Expiration Date			
+83	CustomTagBasedAttributes			
+84	Date Updated			6/13/2019 12:00:00 AM
+85	Updated By			DMICHELSEN
+86	C&G Left			
+87	C&G Right			
+88	Sidewalk Left			None
+89	Sidewalk Right			None
+90	Surface Type			Asphalt
+91	Priority Level			Low
+92	Fatigue Cracking			Low
+93	Longitudinal Cracking			
+94	Transverse Cracking			
+95	Edge Cracking			
+96	Patch_Potholes			Moderate
+97	Rutting			
+98	Roughness			
+99	Deficient Drainage			
+100	Governing Distress			Fatigue
+101	Next_Treat_Type			Microsurfacing
+102	NameType			
+103	GlobalID			92d78c2a-94a8-4bad-b7c9-b8c1bd8a3153
+104	CreationDate			6/15/2022 9:02:59 PM
+105	Creator			dalyn_dalton
+106	EditDate			6/28/2022 9:24:34 PM
+107	Editor			Asmushet
+108	Structural Ranking			3
+109	Environmental Ranking			4
+110	Percent Patching			
+111	Comments			majority of segment has utility cut that is sinking in
+112	Field Verified			6/28/2022 9:23:17 PM
+113	Office Verified			6/28/2022 9:23:18 PM
+114	Shape__Length			302.569972629555
+115	LengthYds
+			252.597359400577
